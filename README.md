@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Esraa Riad</h1>
+<h3 align="center">Flutter Developer | Firebase Enthusiast | App Store Pro 💙</h3>
 
-<!--
-**esraariad/esraariad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 75+ Apps published on App Store & Play Store <br>
+  🧠 Passionate about clean code, UI/UX & scalable app architecture <br>
+  👩‍💻 Currently working at Zone99 | 12+ Published Projects | 60+ Flavored Builds
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- 📱 Flutter & Dart
+- 🔥 Firebase (Auth, Firestore, Functions)
+- 🎯 Riverpod, Provider
+- 💰 Stripe, RevenueCat
+- 🧪 Testing (unit, widget)
+- 🔀 Flutter Flavors, CI/CD
+- 🧠 Clean Architecture, SOLID principles
+
+---
+
+### 🧩 Featured Projects
+- [`Coffee Budget Buddy`](https://github.com/...) – track your caffeine expenses with Firebase & RevenueCat
+- [`i-makeup-mobile-app`](https://github.com/codingzone99/i-makeup-mobile-app) – AI beauty e-commerce app with real-time features
+- More coming soon...
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esraariad&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esraariad&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/esraa-riad-1b9592b4/)
+- Email: esraariad.dev@gmail.com
