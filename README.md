@@ -24,9 +24,10 @@
 
 ## 📌 Featured Projects
 
+
 Below are some of the featured case studies that showcase my work and contributions:
 
-### 1. **[Coffee Budget Buddy ☕️💸](https://github.com/esraariad/coffee-budget-buddy)**  
+### 1. **[Coffee Budget Buddy ☕️💸](https://github.com/esraariad/-Coffee-Budget-Buddy-Coffee-Expense-Tracker)**  
    - **Description**: A cross-platform mobile app that helps users manage their coffee budget, track spending, and set monthly goals. Built with Flutter, Firebase, and integrated with RevenueCat for subscriptions.
    - **Technologies**: Flutter, Firebase, RevenueCat
    - **Features**:  
@@ -34,33 +35,38 @@ Below are some of the featured case studies that showcase my work and contributi
      - Real-time coffee expense tracking
      - Social challenges to track coffee spending
 
-### 2. **[History Screen for Nartik 📊](https://github.com/esraariad/nartik)**  
-   - **Description**: A history screen feature for the Nartik app, built using Riverpod and Firebase. The app allows users to track their coffee spending over time with real-time updates.
-   - **Technologies**: Flutter, Firebase, Riverpod
+### 2. **[FluxStore Multi-Store Case Study 🛍️](https://github.com/esraariad/multi-store-fluxstore-case-study)**  
+   - **Description**: A case study on FluxStore, a powerful multi-store e-commerce app built with Flutter. This project showcases how to implement a multi-vendor marketplace with seamless integration.
+   - **Technologies**: Flutter, Firebase, Stripe, GraphQL
    - **Features**:  
-     - Real-time data fetching
-     - Filtering and categorization of expenses
+     - Multi-store marketplace setup
+     - Vendor and customer management
+     - Advanced product filtering
 
-### 3. **[Happy Texting App ✨](https://github.com/esraariad/happy-texting-app)**  
-   - **Description**: A mobile app that allows users to send fun and creative text messages, integrate with social media platforms, and track their texting activity.
+### 3. **[RewardFox Case Study 🎉](https://github.com/esraariad/-RewardFox-Case-Study)**  
+   - **Description**: A mobile app for rewards-based loyalty programs. Users can track their points and redeem rewards at participating stores. Built with Flutter and Firebase.
    - **Technologies**: Flutter, Firebase
    - **Features**:  
-     - Texting activity dashboard
-     - Social media sharing options
+     - Reward tracking and management
+     - Real-time updates and notifications
+     - Integration with partner stores for loyalty rewards
 
-### 4. **[Nartik - Coffee Expense Tracker 📅](https://github.com/esraariad/nartik)**  
-   - **Description**: An expense tracker for coffee lovers, integrated with Firebase for real-time expense updates. It helps users track their daily and monthly coffee spending.
+### 4. **[CarFades - Fast Car Service Booking App 🚗](https://github.com/esraariad/-CarFades-Fast-Car-Service-Booking-App)**  
+   - **Description**: A fast car service booking app that allows users to book car services in real-time. This app offers seamless scheduling and tracking of services.
    - **Technologies**: Flutter, Firebase
    - **Features**:  
-     - Expense tracking dashboard
-     - Budget goal setting and monitoring
+     - Real-time booking and scheduling
+     - User and service provider management
+     - In-app payment integration
 
-### 5. **[i-Makeup Mobile App 💄](https://github.com/codingzone99/i-makeup-mobile-app)**  
+### 5. **[iMakeup Case Study 💄](https://github.com/esraariad/-iMakeup-Case-Study)**  
    - **Description**: A mobile app for makeup product recommendations and personalized makeup routines, featuring advanced filters for user preferences.
    - **Technologies**: Flutter, Firebase
    - **Features**:  
      - Product recommendation system
      - User customization for makeup routines
+     - Integration with e-commerce platforms for product purchases
+
        
 - More coming soon...
 
