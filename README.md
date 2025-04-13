@@ -21,9 +21,47 @@
 
 ---
 
-### 🧩 Featured Projects
-- [`Coffee Budget Buddy`]([https://github.com/...](https://github.com/esraariad/-Coffee-Budget-Buddy-Coffee-Expense-Tracker)) – track your caffeine expenses with Firebase & RevenueCat
-- [`i-makeup-mobile-app`]([https://github.com/codingzone99/i-makeup-mobile-app](https://github.com/esraariad/-iMakeup-Case-Study)) – AI beauty e-commerce app with real-time features
+
+## 📌 Featured Projects
+
+Below are some of the featured case studies that showcase my work and contributions:
+
+### 1. **[Coffee Budget Buddy ☕️💸](https://github.com/esraariad/coffee-budget-buddy)**  
+   - **Description**: A cross-platform mobile app that helps users manage their coffee budget, track spending, and set monthly goals. Built with Flutter, Firebase, and integrated with RevenueCat for subscriptions.
+   - **Technologies**: Flutter, Firebase, RevenueCat
+   - **Features**:  
+     - OTP-based authentication
+     - Real-time coffee expense tracking
+     - Social challenges to track coffee spending
+
+### 2. **[History Screen for Nartik 📊](https://github.com/esraariad/nartik)**  
+   - **Description**: A history screen feature for the Nartik app, built using Riverpod and Firebase. The app allows users to track their coffee spending over time with real-time updates.
+   - **Technologies**: Flutter, Firebase, Riverpod
+   - **Features**:  
+     - Real-time data fetching
+     - Filtering and categorization of expenses
+
+### 3. **[Happy Texting App ✨](https://github.com/esraariad/happy-texting-app)**  
+   - **Description**: A mobile app that allows users to send fun and creative text messages, integrate with social media platforms, and track their texting activity.
+   - **Technologies**: Flutter, Firebase
+   - **Features**:  
+     - Texting activity dashboard
+     - Social media sharing options
+
+### 4. **[Nartik - Coffee Expense Tracker 📅](https://github.com/esraariad/nartik)**  
+   - **Description**: An expense tracker for coffee lovers, integrated with Firebase for real-time expense updates. It helps users track their daily and monthly coffee spending.
+   - **Technologies**: Flutter, Firebase
+   - **Features**:  
+     - Expense tracking dashboard
+     - Budget goal setting and monitoring
+
+### 5. **[i-Makeup Mobile App 💄](https://github.com/codingzone99/i-makeup-mobile-app)**  
+   - **Description**: A mobile app for makeup product recommendations and personalized makeup routines, featuring advanced filters for user preferences.
+   - **Technologies**: Flutter, Firebase
+   - **Features**:  
+     - Product recommendation system
+     - User customization for makeup routines
+       
 - More coming soon...
 
 ---
