@@ -22,8 +22,8 @@
 ---
 
 ### 🧩 Featured Projects
-- [`Coffee Budget Buddy`](https://github.com/...) – track your caffeine expenses with Firebase & RevenueCat
-- [`i-makeup-mobile-app`](https://github.com/codingzone99/i-makeup-mobile-app) – AI beauty e-commerce app with real-time features
+- [`Coffee Budget Buddy`]([https://github.com/...](https://github.com/esraariad/-Coffee-Budget-Buddy-Coffee-Expense-Tracker)) – track your caffeine expenses with Firebase & RevenueCat
+- [`i-makeup-mobile-app`]([https://github.com/codingzone99/i-makeup-mobile-app](https://github.com/esraariad/-iMakeup-Case-Study)) – AI beauty e-commerce app with real-time features
 - More coming soon...
 
 ---
@@ -42,3 +42,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/esraa-riad-1b9592b4/)
 - Email: esraariad.dev@gmail.com
+- Phone: +201016363566-+201144320304
