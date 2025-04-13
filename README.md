@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Firebase Enthusiast | App Store Pro 💙</h3>
 
 <p align="center">
-  🚀 75+ Apps published on App Store & Play Store <br>
+  🚀 25+ Apps published on App Store & Play Store <br>
   🧠 Passionate about clean code, UI/UX & scalable app architecture <br>
   👩‍💻 Currently working at Zone99 | 12+ Published Projects | 60+ Flavored Builds
 </p>
