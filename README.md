@@ -35,7 +35,7 @@ Below are some of the featured case studies that showcase my work and contributi
      - Real-time coffee expense tracking
      - Social challenges to track coffee spending
 
-### 2. **[FluxStore Multi-Store Case Study 🛍️](https://github.com/esraariad/multi-store-fluxstore-case-study)**  
+### 2. **[FluxStore Multi-Store  🛍️](https://github.com/esraariad/multi-store-fluxstore-case-study)**  
    - **Description**: A case study on FluxStore, a powerful multi-store e-commerce app built with Flutter. This project showcases how to implement a multi-vendor marketplace with seamless integration.
    - **Technologies**: Flutter, Firebase, Stripe, GraphQL
    - **Features**:  
@@ -43,7 +43,7 @@ Below are some of the featured case studies that showcase my work and contributi
      - Vendor and customer management
      - Advanced product filtering
 
-### 3. **[RewardFox Case Study 🎉](https://github.com/esraariad/-RewardFox-Case-Study)**  
+### 3. **[RewardFox  🎉](https://github.com/esraariad/-RewardFox-Case-Study)**  
    - **Description**: A mobile app for rewards-based loyalty programs. Users can track their points and redeem rewards at participating stores. Built with Flutter and Firebase.
    - **Technologies**: Flutter, Firebase
    - **Features**:  
@@ -59,7 +59,7 @@ Below are some of the featured case studies that showcase my work and contributi
      - User and service provider management
      - In-app payment integration
 
-### 5. **[iMakeup Case Study 💄](https://github.com/esraariad/-iMakeup-Case-Study)**  
+### 5. **[iMakeup  💄](https://github.com/esraariad/-iMakeup-Case-Study)**  
    - **Description**: A mobile app for makeup product recommendations and personalized makeup routines, featuring advanced filters for user preferences.
    - **Technologies**: Flutter, Firebase
    - **Features**:  
