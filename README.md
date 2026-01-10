@@ -24,32 +24,36 @@
 
 <br/>
 
-## 🚀 What I Do
+## 🚀 Key Achievements
 
-```dart
-class SeniorFlutterEngineer {
-  final String name = "Esraa Mohammed";
-  final String role = "Senior Flutter Engineer & Mobile Team Lead";
-  final int yearsOfExperience = 5;
+<div align="center">
 
-  List<String> get achievements => [
-    "15+ Published Apps on App Store & Play Store",
-    "60+ White-label Apps from Single Codebase",
-    "30% Reduction in Release Time with AI Tools",
-    "150K+ Total Downloads",
-    "6+ Engineers Mentored",
-  ];
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/15+-0e75b6?style=for-the-badge&logoColor=white" /><br/>
+<b>Published Apps</b><br/>
+<sub>App Store & Play Store</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/60+-0e75b6?style=for-the-badge&logoColor=white" /><br/>
+<b>White-Label Apps</b><br/>
+<sub>Single Codebase</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/30%25-0e75b6?style=for-the-badge&logoColor=white" /><br/>
+<b>Faster Releases</b><br/>
+<sub>With AI Tools</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/150K+-0e75b6?style=for-the-badge&logoColor=white" /><br/>
+<b>Total Downloads</b><br/>
+<sub>Across All Apps</sub>
+</td>
+</tr>
+</table>
 
-  Map<String, List<String>> get skills => {
-    "mobile": ["Flutter", "Dart", "iOS", "Android"],
-    "stateManagement": ["Riverpod", "BLoC", "Provider", "GetX"],
-    "backend": ["Firebase", "Supabase", "REST APIs", "GraphQL"],
-    "payments": ["Stripe", "RevenueCat", "Square", "In-App Purchases"],
-    "architecture": ["Clean Architecture", "MVVM", "SOLID Principles"],
-    "devOps": ["Codemagic", "GitHub Actions", "Flutter Flavors"],
-  };
-}
-```
+</div>
 
 <br/>
 
